@@ -9,6 +9,9 @@
 ### Other
 * [Dynamic properties for JSON models **formatters**](https://blogs.sap.com/2016/02/02/check-please-or-dynamic-properties-in-jsonmodel)
 
+## REACT
+### Redux
+* [Functionally-managing-**state-with-redux**](https://wecodetheweb.com/2015/09/29/functionally-managing-state-with-redux/)
 
 ## VIM
 * [Introduction to **autocomands**](http://learnvimscriptthehardway.stevelosh.com/chapters/12.html)
