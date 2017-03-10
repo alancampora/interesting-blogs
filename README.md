@@ -1,4 +1,4 @@
-# interesting blogs
+# js4life
 :green_book: JS nerd list of cool blogs :orange_book:
 
 ## UI5
