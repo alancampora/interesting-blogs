@@ -8,6 +8,7 @@
 
 ### Other
 * [Dynamic properties for JSON models **formatters**](https://blogs.sap.com/2016/02/02/check-please-or-dynamic-properties-in-jsonmodel)
+* [Openui5 and **JSX**](https://medium.com/@masch/openui5-and-jsx-fc993032490b#.xl2peqoxk)
 
 ## REACT
 ### Redux
