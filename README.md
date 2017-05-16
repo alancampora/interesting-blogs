@@ -1,13 +1,15 @@
 # js4life
-:green_book: JS nerd list of cool blogs :orange_book:
+:green_book: JS list of cool blogs :orange_book:
 
 General topics
 ======
+
 ### Promises
 * [We have a problem with **promises**](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 
 Frameworks
 ======
+
 ## UI5
 ### Reactive 
 * [Advanced site managment via **mobx** ](https://blogs.sap.com/2017/01/30/advanced-state-management-in-sapui5-via-mobx )
@@ -23,6 +25,7 @@ Frameworks
 
 IDE
 ======
+
 ## VIM
 * [Introduction to **autocomands**](http://learnvimscriptthehardway.stevelosh.com/chapters/12.html)
 * [Don't need more than **one-cursor**](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db)
