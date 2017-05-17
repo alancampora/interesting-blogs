@@ -30,3 +30,6 @@ IDE
 * [Introduction to **autocomands**](http://learnvimscriptthehardway.stevelosh.com/chapters/12.html)
 * [Don't need more than **one-cursor**](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db)
 
+Talks
+======
+[Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0)
