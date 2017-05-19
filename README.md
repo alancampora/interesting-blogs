@@ -32,4 +32,5 @@ IDE
 
 Talks
 ======
-[Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0)
+* [Git Aliases of the Gods!](https://www.youtube.com/watch?v=3IIaOj1Lhb0)
+* [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
