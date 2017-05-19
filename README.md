@@ -23,6 +23,13 @@ Frameworks
 ### Redux
 * [Functionally-managing-**state-with-redux**](https://wecodetheweb.com/2015/09/29/functionally-managing-state-with-redux/)
 
+Architecture
+======
+
+## REST
+* [Steps toward the glory of REST](https://www.martinfowler.com/articles/richardsonMaturityModel.html)
+
+
 IDE
 ======
 
